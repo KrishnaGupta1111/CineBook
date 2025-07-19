@@ -1,5 +1,5 @@
 
-## 📽️ CineBook – AI-Powered Movie Ticket Booking Platform
+## 📽️ CineBook – Movie Ticket Booking Platform
 [![Screenshot-2025-07-18-235259.png](https://i.postimg.cc/FHbxJBb4/Screenshot-2025-07-18-235259.png)](https://postimg.cc/bZJn7LFC)
 
 **CineBook** is a **full-stack movie ticket booking platform** that enables users to explore movies, select seats, and make secure online payments. Designed with a **modern UI** and smart backend logic, it ensures a **seamless booking experience** while also empowering admins with full control over listings and analytics.
